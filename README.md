@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anoud</h1>
 <h3 align="center">AI student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anoud77&label=Profile%20views&color=0e75b6&style=flat" alt="anoud77" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoud77" alt="anoud77" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/an0ud77" target="blank"><img src="https://img.shields.io/twitter/follow/an0ud77?logo=twitter&style=for-the-badge" alt="an0ud77" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoud77&show_icons=true&locale=en&layout=compact" alt="anoud77" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anoud77&show_icons=true&locale=en" alt="anoud77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anoud77&" alt="anoud77" /></p>
-
