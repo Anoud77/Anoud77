@@ -13,7 +13,7 @@
 
 - Email: **Anoudalfaydi@gmail.com**  
 - Twitter: [@an0ud77](https://twitter.com/an0ud77)  
-- LinkedIn: [Anoud Alfaydi](https://linkedin.com/in/anoud-alfaydi)
+- LinkedIn: [Anoud Alfaydi](www.linkedin.com/in/anoud-alfaydi-81753b281)
 
 ---
 
